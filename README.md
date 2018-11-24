@@ -3,8 +3,10 @@ Predicting Salesrank of products based on co-purchase and other factors based on
 
 Project was done by a team of 5 members.
 
-Samira Kumar
-Amaya
-Pablo
-Sarah
-Arianne
+| Members        |
+| ------------- |
+| Samira Kumar     |
+| Pablo      |
+|Arianne |
+|Sarah|
+|Amaya|
