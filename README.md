@@ -10,3 +10,5 @@ Project was done by a team of 5 members.
 |Arianne |
 |Sarah|
 |Amaya|
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samirak93/Predicting-Salesrank/master)
